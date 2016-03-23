@@ -1,0 +1,194 @@
+<html>
+<head><title>illy Campaign Files</title>
+</head>
+<body>
+
+<h1>Magazine PDFs</h1>
+
+<a href="illy_print.zip">Download PDFs (ZIP)</a>
+
+<h1>Banners</h1>
+
+<a href="banners.php">View Banners</a>
+
+<h1>Social Media Image Assets</h1>
+
+<a href="https://www.dropbox.com/sh/k66lq67p004bnux/AADmM0U8XYpboI-gdIoBwLdea?dl=0">DropBox Link</a>
+
+<h1>Medium Website & Articles</h1>
+
+<a href="http://www.medium.com/coffee-connoisseurship">Coffee Connoisseurship</a>
+
+<h1>Newsletter Sponsorships</h1>
+
+<p><a href="http://portal.criticalimpact.com/vm2/72122442ccf519b9/25682/4a9a7ec33b0c023a40b32229e92119a4">Wine Spectator Sips & Tips: Giorgio</a></p>
+
+<p><a href="http://portal.criticalimpact.com/vm2/bce37b716ead4bcd/25682/4a9a7ec33b0c023a40b32229e92119a4">Wine Spectator Sips & Tips: Jennifer</a></p>
+
+<p><a href="http://portal.criticalimpact.com/vm2/f867f88b371ffad5/25682/4a9a7ec33b0c023a40b32229e92119a4">Wine Spectator Collecting: Jennifer</a></p>
+
+</body>
+</html>
+<?
+/*
+<html>
+<head>
+<title>illy Digital</title>
+<style type="text/css">
+body {
+font-family: Helvetica;
+}
+h1 {
+color:maroon;
+border-bottom:2px solid #000;
+}
+img {
+width:40%;
+}
+</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+});
+</script>
+</head>
+<body>
+<p style="margin:0 auto;text-align:center">illy Social Campaign Assets</p>
+<h1>Medium.com Account</h1>
+
+<h2>Homepage Design</h2>
+<p><img src="medium-screenshot.png" style="border:2px solid #000; width:50%" /></p>
+
+<h2>Launch URL</h2>
+<p>URL: http://www.medium.com/coffee-connoisseurship/</p>
+
+<h2>Sample Articles</h2>
+<p>This is how the articles will look on Medium</p>
+<p><a href="https://medium.com/coffee-connoisseurship-with-illy/farm-to-cup-pioneer-4b9d915ee425?source=your-stories">Farm to Cup Pioneer</a></p>
+<p><a href="https://medium.com/coffee-connoisseurship-with-illy/can-coffee-be-perfect-e38b90cc273b?source=your-stories">Can Coffee Be Perfect</a></p>
+
+
+<h1>Twitter</h1>
+
+<h2>Campaign Logo</h2>
+
+<p><img src="twitter/illy_twitter_intro.jpg" /></p>
+
+<p>Better Coffee. Better World. Coffee Connoisseurship. Read inspiring personal stories. http://www.medium.com/coffeeconnoiseurship</p>
+
+<h2>Creative #1: Can Coffee Be Perfect</h2>
+
+<img src="twitter/no_title/illy_twitter_dream_1.png" />
+<br /><br />
+<img src="twitter/no_title/illy_twitter_dream_3.png" />
+<br /><br />
+<img src="twitter/no_title/illy_twitter_dream_4.png" />
+<br /><br />
+<img src="twitter/no_title/illy_twitter_dream_5.png" />
+
+<p>"Even before it meets my lips, I am looking for signs of perfection in a cup of illy..."http://www.medium.com/coffeeconnoiseurship</p>
+
+<p>"True perfection may be an impossible dream, but that does not deter me from its pursuit." http://www.medium.com/coffeeconnoiseurship</p>
+
+<p>"We pioneered the idea that a perfect cup of coffee needs to go beyond pleasing the palate." http://www.medium.com/coffeeconnoiseurship</p>
+
+<p>"Like fine wine, illy is not a beverage, but an elixir of happiness." http://www.medium.com/coffeeconnoiseurship</p>
+
+<p>"Coffee is our conduit for improving the lives of 25 million families in over 70 countries." http://www.medium.com/coffeeconnoiseurship</p>
+
+<h2>Creative #2: Farm to Cup Pioneer</h2>
+<img src="twitter/no_title/illy_twitter_farm.png" />
+
+<p>"Farming on steep slopes makes the use of modern machinery impossible..." http://www.medium.com/coffeeconnoiseurship</p>
+
+<p>"Here, every bean is touched by human hands..." http://www.medium.com/coffeeconnoiseurship</p>
+
+<p>"You might think of coffee as a delicious beverage. Here, coffee is life." http://www.medium.com/coffeeconnoiseurship</p>
+
+<p>"To grow this coffee is a special calling, passed down to me through generations." http://www.medium.com/coffeeconnoiseurship</p>
+
+<p>"My Brazilian mountain coffee...mingles with beans from growers across four continents." http://www.medium.com/coffeeconnoiseurship</p>
+
+<h2>Creative #3: Perfect Preparation</h2>
+
+<p>Content coming soon.</p>
+
+<img src="twitter/no_title/illy_twitter_preparation_1.png" />
+<br /><br />
+<img src="twitter/no_title/illy_twitter_preparation_2.png" />
+
+<h1>Facebook</h1>
+
+<h2>Campaign Logo</h2>
+
+<img src="facebook/illy_fb_intro.jpg" />
+
+<p>Better Coffee, Better World. Coffee Connoisseurship with illy. Personal stories that will enlighten you on the world's best coffee, and how together we can make the world a better place with each sip.<br /><br />http://www.medium.com/coffeeconnoisseurship</p>
+
+<h2>Creative #1: Can Coffee Be Perfect</h2>
+
+<img src="facebook/no_title/illy_fb_dream_1.png" />
+<br /><br />
+<img src="facebook/no_title/illy_fb_dream_3.png" />
+<br /><br />
+<img src="facebook/no_title/illy_fb_dream_4.png" />
+<br /><br />
+<img src="facebook/no_title/illy_fb_dream_5.png" />
+
+<p>"Even before it meets my lips, I am looking for signs of perfection in a cup of illy. They appear in tiny details, in the frothy crema atop an espresso and in the thousands of aromas that the illy blend gathers in a demitasse."<br /><br />http://www.medium.com/coffeeconnoisseurship</p>
+
+<p>"True perfection may be an impossible dream, but that does not deter me from its pursuit. The perfect coffee is my mission, my passion and my obsession. So, peering into a cup of illy, I must ask myself: How can this be better?"<br /><br />http://www.medium.com/coffeeconnoisseurship</p>
+
+<p>"At illy, we pioneered the idea that a perfect cup of coffee needs to go beyond pleasing the palate. We believe it should build a better world."<br /><br />http://www.medium.com/coffeeconnoisseurship</p>
+
+<p>"Like fine wine, illy is not a beverage, but an elixir of happiness. The perfect coffee engages the senses and satisfies the soul. It is a dream that should be savored and shared."<br /><br />http://www.medium.com/coffeeconnoisseurship</p>
+
+<h2>Creative #2: Farm to Cup Pioneer</h2>
+<img src="facebook/no_title/illy_fb_farm.png" />
+
+<p>"Here, every bean is touched by human hands, much the way my great grandfather harvested and selected coffee when he arrived in this place from Portugal over a century ago."<br /><br />http://www.medium.com/coffeeconnoisseurship</p>
+
+<p>"You might think of coffee as a delicious beverage. Here, coffee is life."<br /><br />http://www.medium.com/coffeeconnoisseurship</p>
+
+<p>"To grow this coffee is a special calling, passed down to me through generations."<br /><br />http://www.medium.com/coffeeconnoisseurship</p>
+
+<p>"My Brazilian mountain coffee will bestow body, sweetness and balance, as it mingles with beans purchased from growers across four continents."<br /><br />http://www.medium.com/coffeeconnoisseurship</p>
+
+<p>"He thought I was crazy, telling me that illy will not be impressed with a small farmer in the South of Minas Gerais. I sent my coffee anyway..." <br /><br />http://www.medium.com/coffeeconnoisseurship</p>
+
+<h2>Creative #3: Perfect Preparation</h2>
+
+<p>Content coming soon.</p>
+
+<img src="facebook/no_title/illy_fb_preparation_1.png" />
+<br /><br />
+<img src="facebook/no_title/illy_fb_preparation_2.png" />
+<br /><br />
+<img src="facebook/no_title/illy_fb_preparation_3.png" />
+<br /><br />
+
+<h1>Banners</h1>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="300" height="250"  id="mymoviename1"> 
+<param name="movie" value="illy1.swf" /> 
+<param name="quality" value="high" /> 
+<param name="bgcolor" value="#ffffff" /> 
+<embed src="illy1.swf" quality="high" bgcolor="#ffffff" width="300" height="250" name="mymoviename" align="" type="application/x-shockwave-flash" 
+pluginspage="http://www.macromedia.com/go/getflashplayer"> 
+</embed>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="300" height="250"  id="mymoviename1"> 
+<param name="movie" value="illy3.swf" /> 
+<param name="quality" value="high" /> 
+<param name="bgcolor" value="#ffffff" /> 
+<embed src="illy3.swf" quality="high" bgcolor="#ffffff" width="300" height="250" name="mymoviename" align="" type="application/x-shockwave-flash" 
+pluginspage="http://www.macromedia.com/go/getflashplayer"> 
+</embed>
+
+<h1>Print Ads</h1>
+
+<a href="illyprint.pdf">Download illy Print Ads</a>
+</body>
+</html>
+
+*/
+?>
